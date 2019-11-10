@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595697858419",
+    "firebase_url": "https://myflashchat-7fbb3.firebaseio.com",
+    "project_id": "myflashchat-7fbb3",
+    "storage_bucket": "myflashchat-7fbb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595697858419:android:c028d03506c2f16f167706",
+        "android_client_info": {
+          "package_name": "com.redice.myflashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595697858419-t1pgn6qvb87v8ngb89bqrnn3bv5v7mqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHlJf2kIsBfd4xBr8xSCh-LVB_pSAbU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595697858419-t1pgn6qvb87v8ngb89bqrnn3bv5v7mqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
